@@ -1,5 +1,4 @@
-body{
-}
+
 .body-sec{
     margin: 70px;
 
@@ -98,6 +97,9 @@ h2{
     font-size: 50px;
 
 }
+.about-us{
+    display: flex;
+}
 footer{
     margin: 0px;
 }
@@ -106,4 +108,19 @@ footer div{
     color: white;
     text-align: center;
     padding: 20px;
+}
+img{
+    width: 100%;
+}
+a{
+    text-decoration: none;
+    background-color: darkgrey;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+}
+h3{
+    font-size: 30px;
 }
